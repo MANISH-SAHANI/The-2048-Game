@@ -24,14 +24,17 @@ Be mindful of your choices in the 2048 game. Take your time to consider your mov
 
 2. The player can slide the tiles in four directions: up, down, left, or right.
 
-3. When two tiles with the same number collide while sliding, they merge into one tile with double the value.
+3. When two tiles with the same number collide while sliding, they merge into one tile
+   with double the value.
 
-4. Each move slides all tiles as far as possible in the chosen direction, with tiles sliding as far as they can until
-   they reach the edge of the grid or collide with another tile.
+4. Each move slides all tiles as far as possible in the chosen direction, with tiles
+  sliding as far as they can until   they reach the edge of the grid or collide with another
+  tile.
 
 5. After each move, a new tile with a value of either 2 or 4 is randomly added to the grid.
 
-6. The game ends when the grid is full and there are no more possible moves, or when the 2048 tile is reached.
+6. The game ends when the grid is full and there are no more possible moves, or when the 2048
+   tile is reached.
 ```
 
 <h2>Tips - Strategies </h2>
@@ -39,7 +42,8 @@ Be mindful of your choices in the 2048 game. Take your time to consider your mov
 The game can be easily completed using the following tips and strategies 
 
 ```
-1. Plan ahead and think strategically. Consider the consequences of each move and try to create opportunities for merging tiles.
+1. Plan ahead and think strategically. Consider the consequences of each move and try to create
+   opportunities for merging tiles.
 
 2. Focus on merging larger tiles first to free up space on the grid.
 
