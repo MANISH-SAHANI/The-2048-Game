@@ -54,10 +54,7 @@ The game can be easily completed using the following tips and strategies
 5. Take your time and stay patient. Rushing through moves can lead to mistakes and missed opportunities.
 ```
 
-<h1><img src="https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/fcb7b1f2-ef65-4f88-817f-3a40105b8718" alt="image" width="750" /></h1>
-
-![4](https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/015e721a-9678-408a-b834-ef6c19aac3a7)
-
+<h1><img src="https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/fcb7b1f2-ef65-4f88-817f-3a40105b8718" alt="image" width="800" /></h1>
 
 The 2048 game provides a challenging and addictive puzzle experience. With its simple rules and endless possibilities, it is a game that can be enjoyed by players of all skill levels. Test your strategic thinking and logical reasoning while attempting to reach the elusive 2048 tile. Good luck and have fun!  
 
