@@ -1,7 +1,8 @@
 <h1 align="center" >The 2048 GAME 🕹️🎮</h1>
 
 
-<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/48c20d0e-21d1-42fe-8f6e-502d4bc16fef" alt="Logo" width="750" /></h1>
+<h1 align="center" ><img src="https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/5ced9611-9c04-4e5b-b9bb-a171e0ddb8bf" alt="Logo" width="750" /></h1>
+
 
 <h2>2048 Game </h2> 
 
