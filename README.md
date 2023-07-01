@@ -65,5 +65,5 @@ If you beat the game and would like to master it, try to finish with a smaller s
 
 <h2> Do you want to download the game?💫</h2>
 
-You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Kitchen Chaos.exe and you are ready to play. Enjoy!
+You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run 2048 Game.exe and you are ready to play. Enjoy!
 
