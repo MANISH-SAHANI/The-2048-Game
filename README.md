@@ -11,9 +11,10 @@ Even if you don't love numbers you will love this game.Tiles with the same value
 
 The objective of the game is to slide numbered tiles on a 4x4 grid, combining tiles with the same number to create a new tile with double the value. The ultimate goal is to reach the 2048 tile, although the game continues even after achieving this milestone.
 
-![image1](https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/8ed14ea6-d8bb-4d94-9805-12deddc29c1d)
 
 The score in the 2048 game is calculated based on the value of the tiles combined during gameplay. Each merged tile adds to the total score. The highest possible score is achieved by continuously merging tiles to reach the 2048 tile.  
+
+![image1](https://github.com/MANISH-SAHANI/The-2048-Game/assets/91081774/8ed14ea6-d8bb-4d94-9805-12deddc29c1d)
 
 Be mindful of your choices in the 2048 game. Take your time to consider your moves and strategize accordingly, as this will improve your chances of success. Patience and practice are the keys to mastering the game and achieving a high score.The game has samee colors and textures as the classic game has
 
